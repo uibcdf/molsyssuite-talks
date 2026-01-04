@@ -1,2 +1,1 @@
-# molsyssuite-talks
-MolSysSuite Talks
+# MolSysSuite Talks
