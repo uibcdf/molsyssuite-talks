@@ -1,8 +1,6 @@
-## Media files
+# Media assets (external)
 
-Video recordings and final slides for this talk are stored in the
-UIBCDF Google Drive under:
+Large files (videos, large slide decks) are stored externally.
 
-UIBCDF / MolSysSuite / talks / 2026_1_BIFI
-
-Access is managed institutionally.
+- Slides: <Dropbox/Drive link>
+- Videos: <Dropbox/Drive link>
